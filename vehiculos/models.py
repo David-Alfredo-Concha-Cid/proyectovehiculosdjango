@@ -1,6 +1,7 @@
 from django.db import models
 
 
+
 # Create your models here.
 class Vehiculo(models.Model):
     marcas = [["@fiat", "Fiat"], 
